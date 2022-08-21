@@ -1,2 +1,3 @@
 config:
   info: dev007
+  debug: true
